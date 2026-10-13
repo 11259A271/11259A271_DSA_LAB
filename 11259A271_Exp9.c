@@ -70,8 +70,7 @@ root = insert(root, val);
 }
 do {
 printf("\n--- BST Traversal Menu ---\n");
-printf("1. In-order\n2. Pre-order\n3. Post-order\n4. Level-
-order\n5. Insert new node\n6. Exit\n");
+printf("1. In-order\n2. Pre-order\n3. Post-order\n4. Level-order\n5. Insert new node\n6. Exit\n");
 printf("Enter your choice: ");
 scanf("%d", &choice);
 switch (choice) {
