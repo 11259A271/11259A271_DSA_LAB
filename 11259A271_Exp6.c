@@ -51,8 +51,7 @@ int main() {
 int choice, val;
 do {
 printf("\n--- Priority Queue Menu ---\n");
-printf("1. Insert\n2. FindMin\n3. DeleteMin\n4. Display\n5.
-Exit\n");
+printf("1. Insert\n2. FindMin\n3. DeleteMin\n4. Display\n5.Exit\n");
 printf("Enter your choice: ");
 scanf("%d", &choice);
 switch (choice) {
