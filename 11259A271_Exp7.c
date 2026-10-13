@@ -102,10 +102,8 @@ int main() {
 int choice, val, pos;
 do {
 printf("\n--- Singly Linked List Menu ---\n");
-printf("1. Insert at Beginning\n2. Insert at Position\n3. Insert at
-End\n");
-printf("4. Delete at Beginning\n5. Delete at Position\n6. Delete at
-End\n");
+printf("1. Insert at Beginning\n2. Insert at Position\n3. Insert at End\n");
+printf("4. Delete at Beginning\n5. Delete at Position\n6. Delete at End\n");
 printf("7. Traverse\n8. Exit\n");
 printf("Enter your choice: ");
 scanf("%d", &choice);
