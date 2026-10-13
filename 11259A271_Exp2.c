@@ -27,8 +27,7 @@ scanf("%f", &(emp + i)->salary);
 }
 do {
 printf("\n--- Employee Record Menu ---\n");
-printf("1. Display all employees\n2. Search employee by ID\n3.
-Exit\n");
+printf("1. Display all employees\n2. Search employee by ID\n3.Exit\n");
 printf("Enter your choice: ");
 scanf("%d", &choice);
 if (choice == 1) {
